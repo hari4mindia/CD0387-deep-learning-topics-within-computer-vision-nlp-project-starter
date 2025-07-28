@@ -115,8 +115,8 @@ After tuning, the best model achieved ~92% validation accuracy.
 Successfully deployed the trained model to a live SageMaker endpoint.
 
 📸 **Deployed Endpoint Screenshot**  
-![Active Endpoint](./images/Endpoint.png)
-
+![Active Endpoint](./images/Endpoint.PNG)
+![Active Endpoint](./images/Endpoint_2.PNG)
 ### 🔄 Inference Sample
 
 ```python
