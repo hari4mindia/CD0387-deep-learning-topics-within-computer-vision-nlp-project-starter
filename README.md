@@ -89,8 +89,8 @@ hyperparameter_ranges = {
 ```
 
 📸 **Hyperparameter Tuning Screenshot**  
-![Hyperparameter Tuning](./images/hpo_jobs.png)
-
+![Hyperparameter Tuning](./images/hyperparameter_tuning_job_1.PNG)
+![Hyperparameter Tuning](./images/hyperparameter_tuning_job_2.PNG)
 ---
 
 ## 📈 Debugging and Profiling
@@ -99,10 +99,7 @@ hyperparameter_ranges = {
 - Used built-in rules to monitor CPU/GPU utilization and step duration
 - Generated line plots from `ProfilerReport`
 
-📸 **Profiler Screenshot**  
-![Profiler Output](./images/profiler_output.png)
 
----
 
 ## 🧪 Model Evaluation and Insights
 
@@ -118,7 +115,7 @@ After tuning, the best model achieved ~92% validation accuracy.
 Successfully deployed the trained model to a live SageMaker endpoint.
 
 📸 **Deployed Endpoint Screenshot**  
-![Active Endpoint](./images/endpoint_success.png)
+![Active Endpoint](./images/Endpoint.png)
 
 ### 🔄 Inference Sample
 
